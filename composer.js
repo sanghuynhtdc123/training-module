@@ -1,0 +1,22 @@
+{
+    "name": "sanghuynhtdc123/training-module",
+    "description": "For testing",
+    "keywords": [
+        "sanghuynhtdc123"
+    ],
+    "authors": [
+        {
+            "name": "sanghuynhtdc123",
+            "email": "sanghuynh1159.com@gmail.com"           
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "sanghuynhtdc123\\module\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+} 
